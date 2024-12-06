@@ -1,0 +1,19 @@
+body{
+    background-color: black;  
+}
+div{
+    border: 3px solid red;
+    background-color: gray;
+    margin: 100px 35% 100px 35%;
+    text-align: justify;
+}
+h1{
+
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
